@@ -8,3 +8,5 @@ Project include:
   - Alamofire
   - SwiftyJSON
   - RealmSwift
+
+After downloading the repo, go to terminal and change to the project directory. Then type "pod install" to run the project. 
